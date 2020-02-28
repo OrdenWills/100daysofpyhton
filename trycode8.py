@@ -1,0 +1,2 @@
+desires = ['\n\tbuy a house', '\n\tgo fishing', '\n\ttrip to the moon', '\n\tdo some travelling', '\n\tprobably have some tities']
+print(f"we all have something we so much desire it could br to{desires[0]} {desires[1]} {desires[2]} {desires[3]} {desires[4]}")
